@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "create": "^0.0.2",
+    "react-native-app": "^1.0.0",
+    "react-native-image-picker": "^7.1.2"
+  }
+}
